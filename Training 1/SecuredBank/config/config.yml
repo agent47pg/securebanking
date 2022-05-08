@@ -1,0 +1,10 @@
+credit_card:
+  interest_rate: 5
+
+mortgage:
+  interest_rate = 3
+
+banking:
+  interest_rate = 1.5
+
+
